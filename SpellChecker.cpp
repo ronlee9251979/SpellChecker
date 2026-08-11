@@ -1,14 +1,24 @@
 /* ---------------------------------------------------------------------------
-** Author: Alexis Lariviere
+** Authors: R. Lee, A. Lariviere, B. McKenzie
 ** Class: CSC 242
-** Assignment: Discussion Board 3
+** Assignment: Week 4 Assignment 5 Problem 1
 ** File: SpellChecker.cpp
 ** Description: This program checks the spelling of words in a given text against a word list of correctly spelled words.
-** Date: 08/08/2026
+** Date: 08/16/2026
 ** -------------------------------------------------------------------------*/
 
 #include <iostream>
+#include <fstream>
 
 using namespace std;
 
 int main()
+{
+    //R. Lee: User input for message and keyword
+
+    //A. Lariviere: Keyword validation and Cipher implementation
+
+    //B. McKenzie: Encryption and Decryption logic
+
+    return 0;
+}
