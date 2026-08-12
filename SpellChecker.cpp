@@ -15,7 +15,7 @@ using namespace std;
 int main()
 {
     //R. Lee: User input for message and keyword
-
+//This is a test
     //A. Lariviere: Keyword validation and Cipher implementation
 
     //B. McKenzie: Encryption and Decryption logic
