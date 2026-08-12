@@ -17,7 +17,7 @@ int main()
     //R. Lee: User input for message and keyword
 
     //A. Lariviere: Keyword validation and Cipher implementation
-    //This is a test
+    
 
     //B. McKenzie: Encryption and Decryption logic
 
