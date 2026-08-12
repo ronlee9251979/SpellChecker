@@ -20,6 +20,6 @@ int main()
     //This is a test
 
     //B. McKenzie: Encryption and Decryption logic
-
+// why is this so crazy
     return 0;
 }
