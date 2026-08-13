@@ -8,6 +8,8 @@
 ** -------------------------------------------------------------------------*/
 
 #include <fstream>
+#include <iostream>
+#include <string>
 
 using namespace std;
 
@@ -15,8 +17,6 @@ int main()
 {
     
     // R. Lee: User input for message and keyword
-int main()
-{
     string wordListFileName;
     string textFileName;
 
@@ -28,7 +28,7 @@ int main()
 
     // Ask the user for the correctly spelled word-list file.
     cout << "Enter the name of the word-list file: ";
-    getline(cin, wordListFileName);
+    std::getline(cin, wordListFileName);
 
     wordListFile.open(wordListFileName);
 
