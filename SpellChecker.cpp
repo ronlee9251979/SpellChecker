@@ -37,7 +37,8 @@ vector<string> loadDictionary(const string& filename) {
 
 int main()
 {
-    //R. Lee: Begin Program and User Input
+    
+    // R. Lee: User input for message and keyword
 
     //A. Lariviere: Dictionary Loading & Text Cleaning
     //and conversion to lowercase
